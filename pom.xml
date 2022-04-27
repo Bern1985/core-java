@@ -51,7 +51,7 @@
         <junit.version>4.12</junit.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <javaassist.version>3.21.0-GA</javaassist.version>
-        <esapi.version>2.1.0.1</esapi.version>
+        <esapi.version>2.3.0.0</esapi.version>
         <sun.tools.version>1.8.0</sun.tools.version>
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
         <junit-jupiter.version>5.6.2</junit-jupiter.version>
